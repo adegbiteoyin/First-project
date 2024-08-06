@@ -1,0 +1,30 @@
+.lol td{
+ border: 1px solid red;   
+
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th,td{
+    text-align: left;
+    padding: 8px;
+    color: white;
+}
+tr{
+    background-color: black;
+}
+.iyam{
+    background-color: red;
+}
+.waris{
+    background-color: blue;
+}
+.wa{
+background-color: red;
+}
+.last{
+    color: black;
+    background-color: white;
+    border: solid 1px;
+}
